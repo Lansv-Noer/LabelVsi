@@ -1,0 +1,12 @@
+<b>2019.8.25</b>
+The first edition released.
+
+<b>2019.8.31</b>
+<i>Add log and log action</i>
+<i>Add the memory of the last openned directory(only image source directory)</i>
+<i>Fix the problem when deleting groups</i>
+<i>Fix the appearance problem of category dialog</i>
+
+<b>2019.9.2<b>
+<i>Add processbar dialog of export mask</i>
+
